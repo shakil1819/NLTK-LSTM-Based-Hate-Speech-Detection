@@ -1,4 +1,4 @@
-<h1 align="center">NLTK-LSTM-Based-Hate-Speech-Detection</h1>
+<h1 align="center">NLTK LSTM Based HateSpeech Detection</h1>
 <div style="text-align:center">
     <img src="https://i.ibb.co/ry8k2N0/CSE442-Project.png" alt="Image Description">
 </div>
